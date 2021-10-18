@@ -1,3 +1,3 @@
-### 啊对对对
+### SWE305-Project-Material Library
 
-愿我们不受魔鬼伤害
+This repository is used as the material library of SWE305 project.
